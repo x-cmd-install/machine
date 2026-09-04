@@ -7,7 +7,7 @@ about:
   head: b170508
   archived: true
   latestVersion: v0.16.2
-  collectedAt: 2026-09-04T19:43:02Z
+  collectedAt: 2026-09-04T20:51:32Z
 timeline:
   created: 2014-12-03
   lastCommit: 2019-09-02
@@ -83,6 +83,99 @@ total:
   openIssue: 988
   commit: 3463
 ---
+path: /home/runner/.x-repo/github.com/docker/machine
+collectedAt: 2026-09-04T20:51:33Z
+loc:
+  Go:
+    code: 355031
+    comments: 88133
+    blanks: 67598
+    files: 1148
+  Json:
+    code: 29481
+    comments: 0
+    blanks: 0
+    files: 2
+  AssemblyGAS:
+    code: 2232
+    comments: 274
+    blanks: 257
+    files: 32
+  Sh:
+    code: 1104
+    comments: 71
+    blanks: 133
+    files: 9
+  Perl:
+    code: 859
+    comments: 140
+    blanks: 142
+    files: 8
+  Protobuf:
+    code: 748
+    comments: 1
+    blanks: 227
+    files: 7
+  Bash:
+    code: 465
+    comments: 83
+    blanks: 77
+    files: 5
+  Makefile:
+    code: 223
+    comments: 56
+    blanks: 75
+    files: 12
+  Yaml:
+    code: 74
+    comments: 5
+    blanks: 17
+    files: 5
+  Toml:
+    code: 37
+    comments: 0
+    blanks: 10
+    files: 2
+  C:
+    code: 29
+    comments: 7
+    blanks: 11
+    files: 1
+  Bitbake:
+    code: 17
+    comments: 10
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 0
+    blanks: 4
+    files: 1
+  Ini:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 1
+  CHeader:
+    code: 1
+    comments: 5
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3977
+    blanks: 1632
+    files: 55
+  Text:
+    code: 0
+    comments: 421
+    blanks: 83
+    files: 6
+total:
+  code: 391536
+  comments: 93381
+  blanks: 70487
+  files: 1296
 ---
 date: "2026-08-24"
 repo:

@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 34213952,
       "digest": null,
-      "download_count": 4417039,
+      "download_count": 4417193,
       "created_at": "2019-09-02T12:02:04Z",
       "updated_at": "2019-09-02T12:02:08Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/docker-machine-Linux-x86_64"

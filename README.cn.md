@@ -6,7 +6,7 @@
 
 Machine management for a container-centric world
 
-![machine](https://repo.x-cmd.io/machine.svg)
+![machine](https://repo.x-cmd.io/machine.svg?lang=zh)
 
 ## 安装
 
@@ -25,7 +25,19 @@ x install machine
 - **最新版本**: `v0.16.2` (2019-09-02)
 - **最近提交**: 2019-09-02
 - **Release 含资产**: 8 个
-- **发布时间**: 2019-09-02T12:08:03Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [docker-machine-Darwin-x86_64](https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-Darwin-x86_64) | 38.5 MiB | `native/darwin/x64` |
+| [docker-machine-Linux-aarch64](https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-Linux-aarch64) | 31.4 MiB | `native/linux/arm64` |
+| [docker-machine-Linux-armhf](https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-Linux-armhf) | 27.5 MiB | `native/linux/arm` |
+| [docker-machine-Linux-x86_64](https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-Linux-x86_64) | 32.6 MiB | `native/linux/x64` |
+| [docker-machine-Windows-i386.exe](https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-Windows-i386.exe) | 27.7 MiB | `native/win/x64` |
+| [docker-machine-Windows-x86_64.exe](https://github.com/docker/machine/releases/download/v0.16.2/docker-machine-Windows-x86_64.exe) | 32.9 MiB | `native/win/x64` |
+| [md5sum.txt](https://github.com/docker/machine/releases/download/v0.16.2/md5sum.txt) | 383 B | `other` |
+| [sha256sum.txt](https://github.com/docker/machine/releases/download/v0.16.2/sha256sum.txt) | 575 B | `other` |
 
 ## 流行度
 
@@ -74,4 +86,4 @@ machine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:00:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:11Z._

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.16.2"
   latestRelease: "v0.16.2"
   latestPrerelease: "v0.14.0-rc1"
-  collectedAt: 2026-09-11T00:14:24Z
+  collectedAt: 2026-09-11T05:01:26Z
 timeline:
   created: 2014-12-03
   lastCommit: 2019-09-02
@@ -86,7 +86,7 @@ total:
   commit: 3463
 ---
 path: /home/runner/.x-repo/github.com/docker/machine
-collectedAt: 2026-09-11T00:14:27Z
+collectedAt: 2026-09-11T05:01:29Z
 loc:
   Go:
     code: 355031

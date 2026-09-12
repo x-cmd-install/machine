@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40419176,
       "digest": null,
-      "download_count": 30215,
+      "download_count": 30218,
       "created_at": "2019-09-02T12:01:42Z",
       "updated_at": "2019-09-02T12:01:47Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/docker-machine-Darwin-x86_64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 32931968,
       "digest": null,
-      "download_count": 49660,
+      "download_count": 49700,
       "created_at": "2019-09-02T12:01:49Z",
       "updated_at": "2019-09-02T12:01:55Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/docker-machine-Linux-aarch64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 34213952,
       "digest": null,
-      "download_count": 4421646,
+      "download_count": 4423048,
       "created_at": "2019-09-02T12:02:04Z",
       "updated_at": "2019-09-02T12:02:08Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/docker-machine-Linux-x86_64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 29082112,
       "digest": null,
-      "download_count": 9283,
+      "download_count": 9287,
       "created_at": "2019-09-02T12:02:10Z",
       "updated_at": "2019-09-02T12:02:15Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/docker-machine-Windows-i386.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 34462720,
       "digest": null,
-      "download_count": 134799,
+      "download_count": 134808,
       "created_at": "2019-09-02T12:02:17Z",
       "updated_at": "2019-09-02T12:02:23Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/docker-machine-Windows-x86_64.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 575,
       "digest": null,
-      "download_count": 2865,
+      "download_count": 2866,
       "created_at": "2019-09-02T12:02:25Z",
       "updated_at": "2019-09-02T12:02:25Z",
       "browser_download_url": "https://github.com/docker-archive-public/docker.machine/releases/download/v0.16.2/sha256sum.txt"
